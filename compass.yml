@@ -1,0 +1,13 @@
+name: elasticsearch-rails
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/cf009ec1-82aa-4022-b1a2-16f3c4a81e9e
+description: Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
